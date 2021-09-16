@@ -4,6 +4,11 @@
 2021-09-16
 
 Uzdevums
-
-* Mans Mind Map par WEB Programmēšanu
-* Šīs dienas faili (HTML, CSS, JAVASCRIPT)
+* Mans MInd Map par WEB Programm'e'sanu
+* un šīsdienas faili (HTML, CSS, JavaSCript)
+Uzdevums (TODO)
+* Mans MInd Map par WEB Programm'e'sanu (liidz naakamajai nodarbiibai)
+* uzkopeet šīsdienas faillus(HTML, CSS, JavaSCript)                     DONE
+* Index failā:
+* Pamainiit elementa (p) background platumu. (lietojot DIV elementu)
+* Iedarbināt pulksteni (ar JavaScript)
