@@ -6,3 +6,4 @@
 Uzdevums
 
 * Mans Mind Map par WEB Programmēšanu
+* Šīs dienas faili (HTML, CSS, JAVASCRIPT)
