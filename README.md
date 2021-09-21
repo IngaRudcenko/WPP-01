@@ -12,4 +12,5 @@ Uzdevums (TODO):
   * Iedarbināt pulksteni (ar JavaScript)
 
 https://whimsical.com/web-programmesana-WQKTmqqKsDsiBjDcxpGRmn
+
 https://www.screencast.com/t/lxpHnnlx
