@@ -10,3 +10,5 @@ Uzdevums (TODO):
 * Index failā:
   * Pamainīt elementa (p) background platumu. (lietojot DIV elementu)
   * Iedarbināt pulksteni (ar JavaScript)
+
+https://whimsical.com/web-programmesana-WQKTmqqKsDsiBjDcxpGRmn
